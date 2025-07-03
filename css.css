@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cabeçario{
+    background-color: #FFFFFF;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 24px;
+}
+.cabeçario-img{
+    width:10%;
+}
+.cabeçario-lista-item{
+    display: inline-block;
+    margin: 30 px 0px;
+    font-size: 30px;
+}
+
